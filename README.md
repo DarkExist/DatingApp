@@ -1,3 +1,3 @@
 # DatingApp
 
-# This is dating appwith neuronal network
+# This is dating app with neuronal network
